@@ -162,7 +162,7 @@ https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js
 |Feature|Description|
 |:--:|:--:|
 |ABOUT|![캡처](https://user-images.githubusercontent.com/80075223/206958864-cb8488ae-286c-43e3-b5ce-cc43649012a3.PNG)|
-|Page1|[캡처2](https://user-images.githubusercontent.com/80075223/206959001-d47ffe7a-74ff-4234-9cf2-15027055d051.PNG)|
+|Page1|![캡처2](https://user-images.githubusercontent.com/80075223/206959001-d47ffe7a-74ff-4234-9cf2-15027055d051.PNG)|
 |Page2|![캡처3](https://user-images.githubusercontent.com/80075223/206959041-b3877840-ff64-4fc5-abe0-a9b35072e19e.PNG)|
 |Page3|![캡처4](https://user-images.githubusercontent.com/80075223/206959081-74502b1f-6b17-41eb-80ce-fdfb2b9c7ec5.PNG)|
 |PORTFOLIO|![캡처5](https://user-images.githubusercontent.com/80075223/206960005-6037d620-7acc-46df-95ba-5f43735d5667.PNG)
