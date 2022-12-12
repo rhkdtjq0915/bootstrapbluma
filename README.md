@@ -172,7 +172,7 @@ https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js
 
 |Feature|Description|
 |:--:|:--:|
-|ABOUT|![1](https://user-images.githubusercontent.com/80075223/204162967-7ff4e882-a924-470e-9c81-5c75116eb36e.PNG)
+|ABOUT|![캡처](https://user-images.githubusercontent.com/80075223/206958864-cb8488ae-286c-43e3-b5ce-cc43649012a3.PNG)
 |EDUCATION|![2](https://user-images.githubusercontent.com/80075223/204162977-0db6c820-b4ac-41c8-a5dd-d35810044ea4.PNG)
 |SKILLS|![3](https://user-images.githubusercontent.com/80075223/204162985-e2b14886-008e-4be7-b54f-5e68fd08ceed.PNG)
 |PORTFOLIO|![4](https://user-images.githubusercontent.com/80075223/204162993-2b13abb0-482c-4fe6-91dc-3f328f2693ab.PNG)
