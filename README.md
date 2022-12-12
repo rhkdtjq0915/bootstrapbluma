@@ -1,8 +1,3 @@
-# bootstrapbluma
-
-https://splendid-marzipan-2d709e.netlify.app/
-https://rhkdtjq0915.github.io/bootstrapbluma/
-
 
 # HTML+CSS
 
@@ -115,20 +110,14 @@ order속성은 동일한 컨테이너 내의 나머지 유연한 항목에 상�
 align-self속성은 유연한 컨테이너 내에서 선택한 항목의 정렬을 지정합니다. align-self속성은 유연한 컨테이너의 align-items 속성을 재정의합니다.   
 ```align-self: auto|stretch|center|flex-start|flex-end|baseline|initial|inherit```
 
-
-
-
-
 ----------------------------------------------------
 
 # Javascript
 
-스크립트는 바디 제일 아래쪽에 있는게 좋다
+스크립트는 바디 제일 아래쪽에 있는편이 좋습니다.
 
 변수 선언에는 기본적으로 const를 사용하고, 재할당이 필요한 경우에 한정해 let 을 사용하는 것이 좋다.
-Var : 중복 선언 가능 앵간하면 쓰지마라
-호이스팅이란 함수 내부에 있는 선언들을 모두 끌어올려 해당 함수 유효 범위의 최상단에 선언하는 것을 뜻함   
-
+Var : 중복 선언 가능   
 -------------------------------------------------------
 객체
 Class -> Object
@@ -173,7 +162,8 @@ https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js
 |Feature|Description|
 |:--:|:--:|
 |ABOUT|![캡처](https://user-images.githubusercontent.com/80075223/206958864-cb8488ae-286c-43e3-b5ce-cc43649012a3.PNG)|
-|EDUCATION|[캡처2](https://user-images.githubusercontent.com/80075223/206959001-d47ffe7a-74ff-4234-9cf2-15027055d051.PNG)|
-|SKILLS|![캡처3](https://user-images.githubusercontent.com/80075223/206959041-b3877840-ff64-4fc5-abe0-a9b35072e19e.PNG)|
-|PORTFOLIO|![캡처4](https://user-images.githubusercontent.com/80075223/206959081-74502b1f-6b17-41eb-80ce-fdfb2b9c7ec5.PNG)|
+|Page1|[캡처2](https://user-images.githubusercontent.com/80075223/206959001-d47ffe7a-74ff-4234-9cf2-15027055d051.PNG)|
+|Page2|![캡처3](https://user-images.githubusercontent.com/80075223/206959041-b3877840-ff64-4fc5-abe0-a9b35072e19e.PNG)|
+|Page3|![캡처4](https://user-images.githubusercontent.com/80075223/206959081-74502b1f-6b17-41eb-80ce-fdfb2b9c7ec5.PNG)|
+|PORTFOLIO||
 |LINK|[![다운로드 123](https://user-images.githubusercontent.com/80075223/206889633-c0a4e415-0e07-4f6b-bf1e-c0c505e3c617.png)](https://rhkdtjq0915.github.io/bootstrapbluma/)[![다운로드 (1)123](https://user-images.githubusercontent.com/80075223/206889648-cd6dbc5a-1a10-42ad-9c9a-bf439b033d51.png)](https://splendid-marzipan-2d709e.netlify.app/)|
